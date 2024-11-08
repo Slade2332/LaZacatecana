@@ -1,0 +1,24 @@
+# Blender MTL File: 'Krzyz_z_krucyfiksem_z_kosci_sloniowej.blend'
+# Material Count: 2
+
+newmtl FIG
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd FIG_Diffuse.jpg
+
+newmtl KRZ
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd KRZ_Diffuse.jpg
